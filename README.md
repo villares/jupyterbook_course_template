@@ -10,7 +10,7 @@ Não precisa configurar nada, são três passos.
     TO DO:
     [ ] Rola enxugar o texto  para um formato de curso mais genérico, em vez dessa cara de disciplina de universidade americana.
     [ ] Fazer uns logos e imagens mais genéricos/neutros para o exemplo de curso
-    [ ] Publicar um site exemplo do template em PT-BR (não sei aind qual o melhor jeito de fazer isso para ir atualizando)
+    [ ] Publicar um site exemplo do template em PT-BR (não sei ainda qual o melhor jeito de fazer isso para ir atualizando)
 
 ## Sobre o site prontos 
 
