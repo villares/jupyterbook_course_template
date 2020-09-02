@@ -7,11 +7,11 @@ Não precisa configurar nada, são três passos. **Queremos ajuda para terminar 
 
 ## Sobre o site pronto
 
-A cada commit no ramo master do seu repositório o site vai ser gerado novamente, no exemplo inicial a atualização estava levando certa de 70 segundos para acontecer.
+A cada commit no ramo master do seu repositório o site vai ser gerado novamente, no exemplo inicial a atualização estava levando cerca de 70 segundos para acontecer.
 
 ## Como usar este template
 
-### 1. Visit this [template repository](https://github.com/firasm/jupyterbook_course_template) with the GH account you want to use and click "Use this template".
+### 1. Visite este repositório [template repository](https://github.com/villares/jupyterbook_course_template) estando logado na conta do GitHub que você quer usar e clique no botão "Use this template".
 
 ![](https://github.com/firasm/bits/blob/master/jb-step1.png)
 
