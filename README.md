@@ -3,9 +3,16 @@
 >Este template é baseado no template preparado por @firasm em https://github.com/firasm//jupyterbook_course_template ([site para ver o template aplicado](https://firasm.github.io/jupyterbook_course_template/about/syllabus.html)).
 
 Este é um repositório  template para tornar super simples para qualquer pessoa criar um site de curso e publicar usando GitHub Pages.
-Não precisa configurar nada, são três passos. **Queremos ajuda para terminar de traduzir este template, mandem PRs ou peçam permissão para editar direto**.
+Não precisa configurar nada, são três passos. 
 
-## Sobre o site pronto
+#### Queremos ajuda para terminar de traduzir este template, mandem PRs ou peçam permissão para editar direto
+
+    TO DO:
+    [ ] Rola enxugar o texto  para um formato de curso mais genérico, em vez dessa cara de disciplina de universidade americana.
+    [ ] Fazer uns logos e imagens mais genéricos/neutros para o exemplo de curso
+    [ ] Publicar um site exemplo do template em PT-BR (não sei aind qual o melhor jeito de fazer isso para ir atualizando)
+
+## Sobre o site prontos 
 
 A cada commit no ramo master do seu repositório o site vai ser gerado novamente, no exemplo inicial a atualização estava levando cerca de 70 segundos para acontecer.
 
