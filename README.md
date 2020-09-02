@@ -1,17 +1,15 @@
-# JupyterBook Course Template
+# Template para cursos com JupyterBook  
 
-This is a template repository that makes it drop-dead simple for anyone to create a JupyterBook course website and deploy it using GH Pages.
-No configuration is necessary, there are just three steps.
+<small>Este template é baseado no template preparado por @firasm em github.com/firasm//jupyterbook_course_template ([site para ver o template aplicado](https://firasm.github.io/jupyterbook_course_template/about/syllabus.html)).</small>
 
-## Course Website
+Este é um repositório  template para tornar super simples para qualquer pessoa criar um site de curso e publicar usando GitHub Pages.
+Não precisa configurar nada, são três passos. **Queremos ajuda para terminar de traduzir este template, mandem PRs ou peçam permissão para editar direto**
 
-To access the rendered version of this JupyterBook, visit https://firasm.github.io/jupyterbook_course_template.
+## Sobre o site pronto
 
-Each time there is a commit to master, the website will re-deploy.
-Currently it takes about 70s for the website to update.
+A cada commit no ramo master do seu repositório o site vai ser gerado novamente, no exemplo inicial a atualização estava levando certa de 70 segundos para acontecer.
 
-
-## Usage
+## Como usar este template
 
 ### 1. Visit this [template repository](https://github.com/firasm/jupyterbook_course_template) with the GH account you want to use and click "Use this template".
 
@@ -41,15 +39,15 @@ Currently it takes about 70s for the website to update.
 
 1. The JupyterBook can be embedded into Canvas using the Redirect tool so students never have to leave their LMS.
 
-## Edit the template for your course
+## Cecklist de edições para você fazer no seu site
 
 There are a few things you need to do to adapt this template for your course.
 I might miss a few things, so this list is a work in progress:
 
 1. In the `_config.yml` file:
 
-	- [ ] Set title of the book (Physics 111)
-	- [ ] Update author (Firas Moosvi)
+	- [ ] Set title of the book (exemplo: Physics 111)
+	- [ ] Update author (exemplo: Firas Moosvi)
 	- [ ] Update logo image (images/logo.png)
 	- [ ] Add Google Analytics ID (Optional)
 	- [ ] Enable/Disable Hypothes.is (remove the line to remove the hypothes.is integration)
@@ -62,8 +60,9 @@ I might miss a few things, so this list is a work in progress:
 1. In the `about` and `class` folders:
 	- [ ] Edit the .md and .ipynb files with your course content
 
-## Attribution
+## Atribuição e agradecimentos
 
-- Thanks to [Tomas Beuzen](https://github.com/TomasBeuzen) for his GH Actions workflow that deploys JupyterBooks using GH pages.
-- Thanks the entire [Jupyter Project](https://jupyter.org/about)
+- Obrigado @firasm pelo template!
+- Obrigado a [Tomas Beuzen](https://github.com/TomasBeuzen) pelo GH Actions workflow that deploys JupyterBooks using GH pages.
+- Obrigado a todo o [Jupyter Project](https://jupyter.org/about)
 - Finally, a big thanks to the [JupyterBook community](https://github.com/executablebooks/jupyter-book/graphs/contributors) for my incessant issues, questions, and PR requests on documentation changes.
