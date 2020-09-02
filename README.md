@@ -12,7 +12,7 @@ Não precisa configurar nada, são três passos.
     [ ] Fazer uns logos e imagens mais genéricos/neutros para o exemplo de curso
     [ ] Publicar um site exemplo do template em PT-BR (não sei ainda qual o melhor jeito de fazer isso para ir atualizando)
 
-## Sobre o site prontos 
+## Sobre o site pronto 
 
 A cada commit no ramo master do seu repositório o site vai ser gerado novamente, no exemplo inicial a atualização estava levando cerca de 70 segundos para acontecer.
 
