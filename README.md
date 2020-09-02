@@ -1,6 +1,6 @@
 # Template para cursos com JupyterBook  
 
-<small>Este template é baseado no template preparado por @firasm em https://github.com/firasm//jupyterbook_course_template ([site para ver o template aplicado](https://firasm.github.io/jupyterbook_course_template/about/syllabus.html)).</small>
+>Este template é baseado no template preparado por @firasm em https://github.com/firasm//jupyterbook_course_template ([site para ver o template aplicado](https://firasm.github.io/jupyterbook_course_template/about/syllabus.html)).
 
 Este é um repositório  template para tornar super simples para qualquer pessoa criar um site de curso e publicar usando GitHub Pages.
 Não precisa configurar nada, são três passos. **Queremos ajuda para terminar de traduzir este template, mandem PRs ou peçam permissão para editar direto**.
