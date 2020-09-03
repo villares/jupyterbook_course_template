@@ -1,10 +1,10 @@
-Frequently Asked Questions
-=======================
+Perguntas Frequentes
+====================
 
-1. Question
+1. Questão 1
 
-> Answer
+> Resposta
 
-2. Question 2
+2. Questão 2
 
-> Answer
+> Resposta
