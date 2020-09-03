@@ -26,7 +26,7 @@ A cada commit no ramo master do seu repositório o site vai ser gerado novamente
 
 ![](https://github.com/firasm/bits/blob/master/jb-step2.png)
 
-### 3. Espere que a ação automática *GitHub Action* termine, e então visite o site em: <seu nome de usuário>.github.io/<nome do seu repositório>. È isso!
+### 3. Espere que a ação automática *GitHub Action* termine, e então visite o site em: <br><seu nome de usuário>.github.io/<nome do seu repositório>. É isso!
 
 ![](https://github.com/firasm/bits/blob/master/jb-step3.png)
 
@@ -48,24 +48,24 @@ A cada commit no ramo master do seu repositório o site vai ser gerado novamente
 
 ## Cecklist de edições para você fazer no seu site
 
-There are a few things you need to do to adapt this template for your course.
-I might miss a few things, so this list is a work in progress:
+Tem algumas coisas que você precisa fazer para adaptar este template para o seu curso.
+Avise se esquemos de mencionar alguma delas nesta lista (*I might miss a few things, so this list is a work in progress*):
 
-1. In the `_config.yml` file:
+1. No arquivo `_config.yml`:
 
-	- [ ] Set title of the book (exemplo: Physics 111)
-	- [ ] Update author (exemplo: Firas Moosvi)
-	- [ ] Update logo image (images/logo.png)
-	- [ ] Add Google Analytics ID (Optional)
-	- [ ] Enable/Disable Hypothes.is (remove the line to remove the hypothes.is integration)
-	- [ ] Configure Utteranc.es repository (Choose one of Hypothesis or Utteranc.es)
-	- [ ] Adjust `extra_footer` to control License of course materials
+	- [ ] Defina o título do site (*title*, exemplo: Physics 111)
+	- [ ] Atualize a autoria (*author*, exemplo: Allison Parrish)
+	- [ ] Atualize a imagem do logo (`images/logo.png`)
+	- [ ] Acrescente um Google Analytics ID (Opcional)
+	- [ ] Habilite/Desabilite Hypothes.is (remova a linga para remover a integração com [hypothes.is](https://hypothes.is))
+	- [ ] Configure um repositório Utteranc.es (Escolha entre Hypothesis ou Utteranc.es)
+	- [ ] Ajuste o `extra_footer` para indicar o licenciamento do material.
 
-1. In the `_toc.yml` file:
-	- [ ] Arrange the table of contents to add/remove files
+1. No arquivo `_toc.yml`:
+	- [ ] Organize o sumário (*Table Of Contents*) para acrescentar ou remover itens
 	
-1. In the `about` and `class` folders:
-	- [ ] Edit the .md and .ipynb files with your course content
+1. Nas pastas `about` e `class`:
+	- [ ] Edite os arquivos .md e .ipynb com os conteúdos do seu curso.
 
 ## Atribuição e agradecimentos
 
