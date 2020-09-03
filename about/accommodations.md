@@ -1,15 +1,15 @@
 (page_Accommodations)=
-Accommodations
-=======================
+Local
+=====
 
-## One 
-
-test test
-
-## Two
+## Um 
 
 test test
 
-## Three 
+## Dois
+
+test test
+
+## Três 
 
 test test
