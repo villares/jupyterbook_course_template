@@ -22,19 +22,19 @@ A cada commit no ramo master do seu repositório o site vai ser gerado novamente
 
 ![](https://github.com/firasm/bits/blob/master/jb-step1.png)
 
-### 2. Fill in the info for the new repository, make sure it's a public repository and you include all branches (this will make sure the `gh-pages` branch is deployed.
+### 2. Preencha as informações do novo repositório, garanta que ele seja um repositório público (*public*) e que sejam incluídos todos os *branches* (isso garante que o branch `gh-pages` será implantado)
 
 ![](https://github.com/firasm/bits/blob/master/jb-step2.png)
 
-### 3. Wait for the GH Action to complete, and then visit your deployed website here: https://firasm.github.io/jupyterbook_course_template. That's it!
+### 3. Espere que a ação automática *GitHub Action* termine, e então visite o site em: <seu nome de usuário>.github.io/<nome do seu repositório>. È isso!
 
 ![](https://github.com/firasm/bits/blob/master/jb-step3.png)
 
-## Features
+## Funcionalidades
 
-1. Support for executing code in a browser using [thebe](https://thebe.readthedocs.io/en/latest/) and [mybinderorg](https://mybinder.org)!
+1. Permite a execução de código no navegador usando [thebe](https://thebe.readthedocs.io/en/latest/) e [mybinderorg](https://mybinder.org)!
 
-1. Structured book with markdown file stubs aligning with a course structure for a 13 week course. Fully versioned using GitHub, automatically deployed using GH Actions to either GH or your own server. Can also be extended with a testing framework for extra peace of mind.
+1. Structured book with markdown file stubs aligning with a course structure for a 13 week course. Com controle de versão totalmente no GitHub, automaticamente implantado por meio de GitHub Actions ou no GitHub Pages ou no seu servidor.. Can also be extended with a testing framework for extra peace of mind.
 
 1. [Examples of how to use IFrames](https://firasm.github.io/jupyterbook_course_template/class/topic1.html#) to embed web content, @phet_sims, @sli.do polls, videos, and other content. 
 
