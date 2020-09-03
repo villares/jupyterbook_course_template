@@ -1,10 +1,6 @@
 ![](../images/header.jpg)
 
-![](../images/UBCO_CMPS_header.png)
-
-# Course Syllabus
-
-This is the official syllabus and course outline for Physics 111.
+# Programa de estudos
 
 ```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
 ```
